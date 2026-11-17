@@ -2,6 +2,8 @@
 
 Planner para ir marcando las misiones de MIR4 que ya hiciste. Cada una vuelve a aparecer sola cuando le toca el reset.
 
+**Publicado en https://lfenoglio.github.io/mir4-planner/**. Repositorio: https://github.com/Lfenoglio/mir4-planner. Cada `git push` a `main` actualiza la página en uno o dos minutos.
+
 ## Categorías
 
 En la barra lateral podés ver todas juntas o una sola:
