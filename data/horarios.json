@@ -1,0 +1,4313 @@
+{
+ "_nota": "Todas las horas son HORA LOCAL (la de tu PC), formato HH:MM. Después de editar, correr: python scripts/scraper.py --solo-construir  (y python scripts/generar_demo.py para la demo).",
+ "jefes": [
+  {
+   "nivel": "140+",
+   "mundo": "L3W1",
+   "mapa": "Bosque de los dedmonios toro",
+   "jefe": "Mata",
+   "seguir": true,
+   "horas": [
+    "00:00",
+    "02:00",
+    "04:00",
+    "06:00",
+    "08:00",
+    "10:00",
+    "12:00",
+    "14:00",
+    "16:00",
+    "18:00",
+    "20:00",
+    "22:00"
+   ]
+  },
+  {
+   "nivel": "140+",
+   "mundo": "L3W1",
+   "mapa": "Templo del toro demoníaco P1",
+   "jefe": "Relámpago toro",
+   "seguir": true,
+   "horas": [
+    "01:00",
+    "03:00",
+    "05:00",
+    "07:00",
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00",
+    "17:00",
+    "19:00",
+    "21:00",
+    "23:00"
+   ]
+  },
+  {
+   "nivel": "140+",
+   "mundo": "L3W1",
+   "mapa": "Oratorio del Rey demonio toro",
+   "jefe": "Rey demonio toro",
+   "seguir": true,
+   "horas": [
+    "00:00",
+    "03:00",
+    "06:00",
+    "09:00",
+    "12:00",
+    "15:00",
+    "18:00",
+    "21:00"
+   ]
+  },
+  {
+   "nivel": "140+",
+   "mundo": "L3W8",
+   "mapa": "Círculo sellado blancanima",
+   "jefe": "Yeo Wihuang",
+   "seguir": false,
+   "horas": [
+    "01:00",
+    "05:00",
+    "09:00",
+    "13:00",
+    "17:00",
+    "21:00"
+   ]
+  },
+  {
+   "nivel": "141+",
+   "mundo": "L3W7",
+   "mapa": "Jardín de Taehyul",
+   "jefe": "Taehyul",
+   "seguir": true,
+   "horas": [
+    "01:00",
+    "03:00",
+    "05:00",
+    "07:00",
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00",
+    "17:00",
+    "19:00",
+    "21:00",
+    "23:00"
+   ]
+  },
+  {
+   "nivel": "141+",
+   "mundo": "L3W7",
+   "mapa": "Central del culto demoníaco",
+   "jefe": "Yiun",
+   "seguir": true,
+   "horas": [
+    "02:00",
+    "05:00",
+    "08:00",
+    "11:00",
+    "14:00",
+    "17:00",
+    "20:00",
+    "23:00"
+   ]
+  },
+  {
+   "nivel": "141+",
+   "mundo": "L3W4",
+   "mapa": "Desierto Fantasía",
+   "jefe": "Nefario dignidad inalterable",
+   "seguir": true,
+   "horas": [
+    "00:00",
+    "02:00",
+    "04:00",
+    "06:00",
+    "08:00",
+    "10:00",
+    "12:00",
+    "14:00",
+    "16:00",
+    "18:00",
+    "20:00",
+    "22:00"
+   ]
+  },
+  {
+   "nivel": "141+",
+   "mundo": "L3W4",
+   "mapa": "Círculo de sellado de dinastía",
+   "jefe": "Kurilaica",
+   "seguir": true,
+   "horas": [
+    "00:00",
+    "03:00",
+    "06:00",
+    "09:00",
+    "12:00",
+    "15:00",
+    "18:00",
+    "21:00"
+   ]
+  },
+  {
+   "nivel": "143+",
+   "mundo": "L3W2",
+   "mapa": "Montaña de luna sangrienta",
+   "jefe": "Juhwi",
+   "seguir": false,
+   "horas": [
+    "02:30",
+    "05:30",
+    "08:30",
+    "11:30",
+    "14:30",
+    "17:30",
+    "20:30",
+    "23:30"
+   ]
+  },
+  {
+   "nivel": "143+",
+   "mundo": "L3W5",
+   "mapa": "Gran muro de Sabuk",
+   "jefe": "Faluk",
+   "seguir": true,
+   "horas": [
+    "00:30",
+    "03:30",
+    "06:30",
+    "09:30",
+    "12:30",
+    "15:30",
+    "18:30",
+    "21:30"
+   ]
+  },
+  {
+   "nivel": "143+",
+   "mundo": "L3W5",
+   "mapa": "Templo de ilusión",
+   "jefe": "Fantasma disruptor de historia",
+   "seguir": true,
+   "horas": [
+    "01:30",
+    "04:30",
+    "07:30",
+    "10:30",
+    "13:30",
+    "16:30",
+    "19:30",
+    "22:30"
+   ]
+  },
+  {
+   "nivel": "150+",
+   "mundo": "L3W3",
+   "mapa": "Necrópolis de los nefarios",
+   "jefe": "Bestia del sepulcro Gyo",
+   "seguir": true,
+   "horas": [
+    "02:30",
+    "08:30",
+    "14:30",
+    "20:30"
+   ]
+  },
+  {
+   "nivel": "150+",
+   "mundo": "L3W3",
+   "mapa": "Llanura de bestias viperinas",
+   "jefe": "Demonio imperial caparáceo del ocaso",
+   "seguir": true,
+   "horas": [
+    "01:30",
+    "03:30",
+    "05:30",
+    "07:30",
+    "09:30",
+    "11:30",
+    "13:30",
+    "15:30",
+    "17:30",
+    "19:30",
+    "21:30",
+    "23:30"
+   ]
+  },
+  {
+   "nivel": "150+",
+   "mundo": "L3W3",
+   "mapa": "Tumba rupestre",
+   "jefe": "Budu",
+   "seguir": true,
+   "horas": [
+    "03:30",
+    "09:30",
+    "15:30",
+    "21:30"
+   ]
+  },
+  {
+   "nivel": "150+",
+   "mundo": "L3W3",
+   "mapa": "Tumba rupestre",
+   "jefe": "Mara",
+   "seguir": true,
+   "horas": [
+    "02:30",
+    "05:30",
+    "08:30",
+    "11:30",
+    "14:30",
+    "17:30",
+    "20:30",
+    "23:30"
+   ]
+  },
+  {
+   "nivel": "150+",
+   "mundo": "L3W6",
+   "mapa": "Pueblo de Bicheon",
+   "jefe": "Asura de Bicheon",
+   "seguir": false,
+   "horas": [
+    "04:30",
+    "10:30",
+    "16:30",
+    "22:30"
+   ]
+  },
+  {
+   "nivel": "150+",
+   "mundo": "L3W6",
+   "mapa": "Pueblo de Bicheon",
+   "jefe": "Cheol Mokgang",
+   "seguir": true,
+   "horas": [
+    "00:30",
+    "02:30",
+    "04:30",
+    "06:30",
+    "08:30",
+    "10:30",
+    "12:30",
+    "14:30",
+    "16:30",
+    "18:30",
+    "20:30",
+    "22:30"
+   ]
+  },
+  {
+   "nivel": "150+",
+   "mundo": "L3W6",
+   "mapa": "Bosque Fantasmal",
+   "jefe": "Wuihan",
+   "seguir": false,
+   "horas": [
+    "05:30",
+    "11:30",
+    "17:30",
+    "23:30"
+   ]
+  },
+  {
+   "nivel": "150+",
+   "mundo": "L3W6",
+   "mapa": "Fondo de la mina endominada",
+   "jefe": "Hong Yeon cambiada",
+   "seguir": true,
+   "horas": [
+    "01:30",
+    "03:30",
+    "05:30",
+    "07:30",
+    "09:30",
+    "11:30",
+    "13:30",
+    "15:30",
+    "17:30",
+    "19:30",
+    "21:30",
+    "23:30"
+   ]
+  },
+  {
+   "nivel": "150+",
+   "mundo": "L3W6",
+   "mapa": "Laberinto de Bicheon",
+   "jefe": "Yetíclope degenerado",
+   "seguir": false,
+   "horas": [
+    "00:30",
+    "06:30",
+    "12:30",
+    "18:30"
+   ]
+  },
+  {
+   "nivel": "155+",
+   "mundo": "L1W1",
+   "mapa": "Pueblo de Unseon",
+   "jefe": "Jihwa",
+   "seguir": true,
+   "horas": [
+    "02:30",
+    "05:30",
+    "08:30",
+    "11:30",
+    "14:30",
+    "17:30",
+    "20:30",
+    "23:30"
+   ]
+  },
+  {
+   "nivel": "155+",
+   "mundo": "L1W1",
+   "mapa": "Montaña de siete valles",
+   "jefe": "Armadillo gigante caparáceo del ocaso",
+   "seguir": true,
+   "horas": [
+    "00:30",
+    "03:30",
+    "06:30",
+    "09:30",
+    "12:30",
+    "15:30",
+    "18:30",
+    "21:30"
+   ]
+  },
+  {
+   "nivel": "155+",
+   "mundo": "L1W1",
+   "mapa": "Montaña de siete valles",
+   "jefe": "Yaksha de ojos nocturnos",
+   "seguir": false,
+   "horas": [
+    "03:30",
+    "09:30",
+    "15:30",
+    "21:30"
+   ]
+  },
+  {
+   "nivel": "155+",
+   "mundo": "L1W1",
+   "mapa": "Isla de fuego ardiente",
+   "jefe": "Bulhu",
+   "seguir": true,
+   "horas": [
+    "04:30",
+    "10:30",
+    "16:30",
+    "22:30"
+   ]
+  },
+  {
+   "nivel": "155+",
+   "mundo": "L1W2",
+   "mapa": "Campo de hielo del nonadragón",
+   "jefe": "Guemugwang",
+   "seguir": false,
+   "horas": [
+    "05:30",
+    "11:30",
+    "17:30",
+    "23:30"
+   ]
+  },
+  {
+   "nivel": "155+",
+   "mundo": "L1W2",
+   "mapa": "Cárcel subterránea",
+   "jefe": "Do Maeongryong",
+   "seguir": false,
+   "horas": [
+    "00:30",
+    "06:30",
+    "12:30",
+    "18:30"
+   ]
+  },
+  {
+   "nivel": "155+",
+   "mundo": "L1W2",
+   "mapa": "Cárcel subterránea",
+   "jefe": "Molgrash",
+   "seguir": true,
+   "horas": [
+    "01:30",
+    "04:30",
+    "07:30",
+    "10:30",
+    "13:30",
+    "16:30",
+    "19:30",
+    "22:30"
+   ]
+  },
+  {
+   "nivel": "155+",
+   "mundo": "L1W2",
+   "mapa": "Palacio del nonadragón",
+   "jefe": "Wi Gwangryeong",
+   "seguir": false,
+   "horas": [
+    "02:30",
+    "05:30",
+    "08:30",
+    "11:30",
+    "14:30",
+    "17:30",
+    "20:30",
+    "23:30"
+   ]
+  },
+  {
+   "nivel": "158+",
+   "mundo": "L1W3",
+   "mapa": "Ruina de los nefarios primitivos",
+   "jefe": "Krog",
+   "seguir": false,
+   "horas": []
+  },
+  {
+   "nivel": "158+",
+   "mundo": "L1W3",
+   "mapa": "Cañón Helado",
+   "jefe": "Talasa",
+   "seguir": false,
+   "horas": []
+  },
+  {
+   "nivel": "158+",
+   "mundo": "L1W3",
+   "mapa": "Cañón Helado",
+   "jefe": "KELIS",
+   "seguir": false,
+   "horas": [
+    "02:30",
+    "08:30",
+    "14:30",
+    "20:30"
+   ]
+  },
+  {
+   "nivel": "158+",
+   "mundo": "L1W3",
+   "mapa": "Antiguo castillo de los ancestrales",
+   "jefe": "Barkas",
+   "seguir": false,
+   "horas": []
+  },
+  {
+   "nivel": "158+",
+   "mundo": "L1W3",
+   "mapa": "Templo de las hidras",
+   "jefe": "Bargan",
+   "seguir": false,
+   "horas": []
+  },
+  {
+   "nivel": "158+",
+   "mundo": "L1W3",
+   "mapa": "Templo de las hidras",
+   "jefe": "Morg",
+   "seguir": false,
+   "horas": []
+  },
+  {
+   "nivel": "158+",
+   "mundo": "L1W3",
+   "mapa": "Fondo de las hidras",
+   "jefe": "Bordo",
+   "seguir": false,
+   "horas": []
+  }
+ ],
+ "misiones": {
+  "_nota": "Misiones fijas del planner (también se pueden agregar desde la pantalla). Formato: {\"nombre\": \"...\", \"detalle\": \"...\", \"zona\": \"...\", \"frecuencia\": \"semanal\" o \"diaria\"}. Las semanales vuelven el lunes 00:10.",
+  "invocado": [
+   {
+    "zona": "Invocaciones hasta 141",
+    "nombre": "Corazón de la larva",
+    "detalle": "Desierto Fantasía",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Cristal del vacío",
+     "npc": "<Artesano> Buman · Cubierta de la Nave espejismo",
+     "farmeo": "Energía del demonio del vacío: matando cualquier mob en el compartimento interior de la Nave espejismo.",
+     "icono": {
+      "img": "img/invocados/img01.png",
+      "x": 0,
+      "y": 0,
+      "w": 145,
+      "h": 142,
+      "iw": 145,
+      "ih": 142
+     },
+     "craft_img": {
+      "img": "img/invocados/craft00.png",
+      "w": 570,
+      "h": 201
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img00.png",
+      "x": 3,
+      "y": 3,
+      "w": 105,
+      "h": 105,
+      "iw": 340,
+      "ih": 111
+     },
+     {
+      "img": "img/invocados/img00.png",
+      "x": 118,
+      "y": 3,
+      "w": 105,
+      "h": 105,
+      "iw": 340,
+      "ih": 111
+     }
+    ],
+    "nivel": "-140"
+   },
+   {
+    "zona": "Invocaciones hasta 141",
+    "nombre": "Derrotar a la Gran Bestia Demoníaca 1",
+    "detalle": "[Mundo 8] Salón de piedra Pakua",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Insignia de invocación de la Reina de las Víboras Monstruosas",
+     "npc": "<Artesano> Buman · Cubierta de la Nave espejismo",
+     "farmeo": "Escama de la Reina de las Víboras Monstruosas: jefes de [Mundo 8] Valle de las Serpientes.\nVeneno de la Reina de las Víboras Monstruosas: jefes de [Mundo 8] Gruta de las Serpientes.",
+     "icono": {
+      "img": "img/invocados/img03.png",
+      "x": 0,
+      "y": 0,
+      "w": 136,
+      "h": 139,
+      "iw": 136,
+      "ih": 139
+     },
+     "craft_img": {
+      "img": "img/invocados/craft01.png",
+      "w": 766,
+      "h": 198
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img02.png",
+      "x": 3,
+      "y": 3,
+      "w": 96,
+      "h": 96,
+      "iw": 329,
+      "ih": 102
+     },
+     {
+      "img": "img/invocados/img02.png",
+      "x": 116,
+      "y": 3,
+      "w": 96,
+      "h": 96,
+      "iw": 329,
+      "ih": 102
+     }
+    ],
+    "nivel": "-140"
+   },
+   {
+    "zona": "Invocaciones hasta 141",
+    "nombre": "Derrotar a la Gran Bestia Demoníaca 2",
+    "detalle": "[Mundo 8] Salón de piedra Pakua",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Insignia de invocación de Arahan",
+     "npc": "<Artesano> Buman · Cubierta de la Nave espejismo",
+     "farmeo": "Rencor de Arahan: jefes de [Mundo 8] Mina abandonada 1F.\nMalicia de Arahan: jefes de [Mundo 8] Mina abandonada 2F.\nDeterminación de Arahan: jefes de [Mundo 8] Mina abandonada 3F.",
+     "icono": {
+      "img": "img/invocados/img03.png",
+      "x": 0,
+      "y": 0,
+      "w": 136,
+      "h": 139,
+      "iw": 136,
+      "ih": 139
+     },
+     "craft_img": {
+      "img": "img/invocados/craft02.png",
+      "w": 779,
+      "h": 188
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img04.png",
+      "x": 3,
+      "y": 3,
+      "w": 100,
+      "h": 100,
+      "iw": 333,
+      "ih": 106
+     },
+     {
+      "img": "img/invocados/img04.png",
+      "x": 116,
+      "y": 3,
+      "w": 100,
+      "h": 100,
+      "iw": 333,
+      "ih": 106
+     }
+    ],
+    "nivel": "-140"
+   },
+   {
+    "zona": "Invocaciones hasta 141",
+    "nombre": "Insignia del Anciano del Culto Demoníaco 1",
+    "detalle": "Mina abandonada [Mundo 8]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Insignia de la Facción Trueno Celestial",
+     "npc": "<Estratega de la Legión de los Dragones Blancos> Yong Munki · [Mundo 8] Salón de piedra Pakua",
+     "farmeo": "Sello del Trueno Celestial: mobs cerca de la invocación.\nEnergía embrujada: matando mobs de la <Legión de Esqueletos Legítimos> en [Mundo 8] Mina abandonada 3F.",
+     "icono": {
+      "img": "img/invocados/img06.png",
+      "x": 0,
+      "y": 0,
+      "w": 139,
+      "h": 140,
+      "iw": 139,
+      "ih": 140
+     },
+     "craft_img": {
+      "img": "img/invocados/craft03.png",
+      "w": 575,
+      "h": 195
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img05.png",
+      "x": 3,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 332,
+      "ih": 107
+     },
+     {
+      "img": "img/invocados/img05.png",
+      "x": 116,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 332,
+      "ih": 107
+     }
+    ],
+    "nivel": "-140"
+   },
+   {
+    "zona": "Invocaciones hasta 141",
+    "nombre": "Insignia del Anciano del Culto Demoníaco 2",
+    "detalle": "Mina abandonada [Mundo 8]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Insignia de la Facción Divinidad Terrestre",
+     "npc": "<Estratega de la Legión de los Dragones Blancos> Yong Munki · [Mundo 8] Salón de piedra Pakua",
+     "farmeo": "Sello de la Divinidad Terrestre: mobs cerca de la invocación.\nEnergía embrujada: matando mobs de la <Legión de Esqueletos Legítimos> en [Mundo 8] Mina abandonada 3F.\nCorazón de Armadillo Sombrío de Espectro Carmesí: jefe rojo o invocación de jefe grande del Pico 4.",
+     "icono": {
+      "img": "img/invocados/img07.png",
+      "x": 0,
+      "y": 0,
+      "w": 134,
+      "h": 136,
+      "iw": 134,
+      "ih": 136
+     },
+     "craft_img": {
+      "img": "img/invocados/craft04.png",
+      "w": 782,
+      "h": 202
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img05.png",
+      "x": 3,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 332,
+      "ih": 107
+     },
+     {
+      "img": "img/invocados/img05.png",
+      "x": 116,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 332,
+      "ih": 107
+     }
+    ],
+    "nivel": "-140"
+   },
+   {
+    "zona": "Invocaciones hasta 141",
+    "nombre": "Mancha de sangre de Espectro Carmesí",
+    "detalle": "Mina abandonada [Mundo 8]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Insignia del Primer Anciano",
+     "npc": "<Estratega de la Legión de los Dragones Blancos> Yong Munki · [Mundo 8] Salón de piedra Pakua",
+     "farmeo": "Sello de Fuego Infernal: mobs cerca de la invocación.\nEnergía embrujada: matando mobs de la <Legión de Esqueletos Legítimos> en [Mundo 8] Mina abandonada 3F.",
+     "icono": {
+      "img": "img/invocados/img09.png",
+      "x": 0,
+      "y": 0,
+      "w": 132,
+      "h": 138,
+      "iw": 132,
+      "ih": 138
+     },
+     "craft_img": {
+      "img": "img/invocados/craft05.png",
+      "w": 781,
+      "h": 206
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img08.png",
+      "x": 3,
+      "y": 3,
+      "w": 104,
+      "h": 104,
+      "iw": 335,
+      "ih": 110
+     },
+     {
+      "img": "img/invocados/img08.png",
+      "x": 116,
+      "y": 3,
+      "w": 104,
+      "h": 104,
+      "iw": 335,
+      "ih": 110
+     }
+    ],
+    "nivel": "-140"
+   },
+   {
+    "zona": "Invocaciones 141+",
+    "nombre": "Eliminar al Dios de la Montaña de la Garganta de Luna sangrienta",
+    "detalle": "Garganta de Luna sangrienta 2F [Mundo 7]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Lobo fantasmal de Luna sangrienta",
+     "npc": "<Artesano> Brazo Derecho · [Mundo 7] Garganta de Luna sangrienta 2F",
+     "farmeo": "Colmillo del Lobo de Luna sangrienta: mobs \"Lobo de Luna sangrienta\" (o cachorro), cerca del punto de invocación.\nPíldora de hielo sangriento: cualquier mob del mapa.",
+     "icono": {
+      "img": "img/invocados/img11.png",
+      "x": 0,
+      "y": 0,
+      "w": 138,
+      "h": 139,
+      "iw": 138,
+      "ih": 139
+     },
+     "craft_img": {
+      "img": "img/invocados/craft06.png",
+      "w": 764,
+      "h": 194
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img10.png",
+      "x": 3,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 330,
+      "ih": 104
+     },
+     {
+      "img": "img/invocados/img10.png",
+      "x": 116,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 330,
+      "ih": 104
+     }
+    ],
+    "nivel": "141+"
+   },
+   {
+    "zona": "Invocaciones 141+",
+    "nombre": "Eliminar al Rey del Demonio de Sangre",
+    "detalle": "Garganta de Luna sangrienta 3F [Mundo 7]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Poderoso Demonio de Sangre",
+     "npc": "<Artesano> Brazo Derecho · [Mundo 7] Garganta de Luna sangrienta 2F",
+     "farmeo": "Cuerno de Demonio de Sangre: mobs \"Demonio de Sangre\" en Garganta de Luna sangrienta 3F [Mundo 7].\nPíldora de hielo sangriento: cualquier mob del mapa.",
+     "icono": {
+      "img": "img/invocados/img13.png",
+      "x": 0,
+      "y": 0,
+      "w": 136,
+      "h": 135,
+      "iw": 136,
+      "ih": 135
+     },
+     "craft_img": {
+      "img": "img/invocados/craft07.png",
+      "w": 744,
+      "h": 191
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img12.png",
+      "x": 3,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 329,
+      "ih": 105
+     },
+     {
+      "img": "img/invocados/img12.png",
+      "x": 115,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 329,
+      "ih": 105
+     }
+    ],
+    "nivel": "141+"
+   },
+   {
+    "zona": "Invocaciones 141+",
+    "nivel": "141+",
+    "nombre": "Grieta fisura 1 + Llegada de Jodeok",
+    "detalle": "Cárcel subterránea [Mundo 7]",
+    "frecuencia": "semanal",
+    "misiones": [
+     {
+      "nombre": "Grieta fisura 1",
+      "iconos": [
+       {
+        "img": "img/invocados/img14.png",
+        "x": 3,
+        "y": 3,
+        "w": 95,
+        "h": 95,
+        "iw": 330,
+        "ih": 101
+       },
+       {
+        "img": "img/invocados/img14.png",
+        "x": 118,
+        "y": 3,
+        "w": 95,
+        "h": 95,
+        "iw": 330,
+        "ih": 101
+       }
+      ]
+     },
+     {
+      "nombre": "Llegada de Jodeok",
+      "iconos": [
+       {
+        "img": "img/invocados/img16.png",
+        "x": 3,
+        "y": 3,
+        "w": 95,
+        "h": 95,
+        "iw": 325,
+        "ih": 101
+       },
+       {
+        "img": "img/invocados/img16.png",
+        "x": 115,
+        "y": 3,
+        "w": 95,
+        "h": 95,
+        "iw": 325,
+        "ih": 101
+       }
+      ]
+     }
+    ],
+    "iconos": [
+     {
+      "img": "img/invocados/img14.png",
+      "x": 3,
+      "y": 3,
+      "w": 95,
+      "h": 95,
+      "iw": 330,
+      "ih": 101
+     },
+     {
+      "img": "img/invocados/img14.png",
+      "x": 118,
+      "y": 3,
+      "w": 95,
+      "h": 95,
+      "iw": 330,
+      "ih": 101
+     },
+     {
+      "img": "img/invocados/img16.png",
+      "x": 3,
+      "y": 3,
+      "w": 95,
+      "h": 95,
+      "iw": 325,
+      "ih": 101
+     },
+     {
+      "img": "img/invocados/img16.png",
+      "x": 115,
+      "y": 3,
+      "w": 95,
+      "h": 95,
+      "iw": 325,
+      "ih": 101
+     }
+    ],
+    "info": {
+     "item": "Demonio de la Cárcel subterránea",
+     "npc": "<Artesano> Buman · Cubierta de la Nave espejismo",
+     "farmeo": "Mercado",
+     "icono": {
+      "img": "img/invocados/img15.png",
+      "x": 0,
+      "y": 0,
+      "w": 135,
+      "h": 136,
+      "iw": 135,
+      "ih": 136
+     },
+     "craft_img": {
+      "img": "img/invocados/craft08.png",
+      "w": 772,
+      "h": 201
+     }
+    }
+   },
+   {
+    "zona": "Invocaciones 141+",
+    "nombre": "Secuaz del Soberano Nefariox Loco 1",
+    "detalle": "Provincia de Sabuk [Mundo 4]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Tesoro dorado",
+     "npc": "<Artesano> Dangpo · [Mundo 4] Provincia de Sabuk",
+     "farmeo": "Bien de valor saqueado: \"Fantasma trabajador demonio monstruoso\" y \"Jabalí demoníaco de la destrucción\".\nEsencia desvanecida: cualquier monstruo del mapa.",
+     "icono": {
+      "img": "img/invocados/img18.png",
+      "x": 0,
+      "y": 0,
+      "w": 134,
+      "h": 135,
+      "iw": 134,
+      "ih": 135
+     },
+     "craft_img": {
+      "img": "img/invocados/craft10.png",
+      "w": 771,
+      "h": 195
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img17.png",
+      "x": 3,
+      "y": 3,
+      "w": 97,
+      "h": 97,
+      "iw": 326,
+      "ih": 103
+     },
+     {
+      "img": "img/invocados/img17.png",
+      "x": 114,
+      "y": 3,
+      "w": 97,
+      "h": 97,
+      "iw": 326,
+      "ih": 103
+     }
+    ],
+    "nivel": "141+"
+   },
+   {
+    "zona": "Invocaciones 141+",
+    "nombre": "Secuaz del Soberano Nefariox Loco 3",
+    "detalle": "Refugio de espadas 1F [Mundo 4]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Santidad del Sonido Tronante Nefariox",
+     "npc": "<Artesano> Dangpo · [Mundo 4] Provincia de Sabuk",
+     "farmeo": "Piedra del trueno: mobs Nefariox en Refugio de espadas 1F [Mundo 4].\nEsencia desvanecida (cae en otro mapa): cualquier monstruo de Provincia de Sabuk [Mundo 4].",
+     "icono": {
+      "img": "img/invocados/img20.png",
+      "x": 0,
+      "y": 0,
+      "w": 134,
+      "h": 136,
+      "iw": 134,
+      "ih": 136
+     },
+     "craft_img": {
+      "img": "img/invocados/craft11.png",
+      "w": 766,
+      "h": 197
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img19.png",
+      "x": 3,
+      "y": 3,
+      "w": 97,
+      "h": 97,
+      "iw": 325,
+      "ih": 103
+     },
+     {
+      "img": "img/invocados/img19.png",
+      "x": 114,
+      "y": 3,
+      "w": 97,
+      "h": 97,
+      "iw": 325,
+      "ih": 103
+     }
+    ],
+    "nivel": "141+"
+   },
+   {
+    "zona": "Invocaciones 141+",
+    "nombre": "Secuaz del Soberano Nefariox Loco 4",
+    "detalle": "Refugio de espadas 2F [Mundo 4]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Sangre contaminada",
+     "npc": "<Seguidor de Zakai> Karungka · Refugio de espadas 2F [Mundo 4]",
+     "farmeo": "Sangre de Nefariox: zona de la invocación en Refugio de espadas 2F y zona del jefe azul \"Capitán Makan\" en 1F [Mundo 4].\nEsencia desvanecida (cae en otro mapa): cualquier monstruo de Provincia de Sabuk [Mundo 4].",
+     "icono": {
+      "img": "img/invocados/img22.png",
+      "x": 0,
+      "y": 0,
+      "w": 134,
+      "h": 136,
+      "iw": 134,
+      "ih": 136
+     },
+     "craft_img": {
+      "img": "img/invocados/craft12.png",
+      "w": 773,
+      "h": 199
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img21.png",
+      "x": 3,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 329,
+      "ih": 105
+     },
+     {
+      "img": "img/invocados/img21.png",
+      "x": 115,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 329,
+      "ih": 105
+     }
+    ],
+    "nivel": "141+"
+   },
+   {
+    "zona": "Invocaciones 141+",
+    "nombre": "Aparición del Monje de Sangre Negra",
+    "detalle": "Monje de Sangre Negra [Mundo 4]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Monje de Sangre Negra",
+     "npc": "<Artesano> Buman · Cubierta de la Nave espejismo",
+     "farmeo": "Mercado",
+     "icono": {
+      "img": "img/invocados/img24.png",
+      "x": 0,
+      "y": 0,
+      "w": 136,
+      "h": 137,
+      "iw": 136,
+      "ih": 137
+     },
+     "craft_img": {
+      "img": "img/invocados/craft13.png",
+      "w": 769,
+      "h": 195
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img23.png",
+      "x": 3,
+      "y": 3,
+      "w": 96,
+      "h": 96,
+      "iw": 326,
+      "ih": 102
+     },
+     {
+      "img": "img/invocados/img23.png",
+      "x": 115,
+      "y": 3,
+      "w": 96,
+      "h": 96,
+      "iw": 326,
+      "ih": 102
+     }
+    ],
+    "nivel": "141+"
+   },
+   {
+    "zona": "Invocaciones 143+",
+    "nombre": "Eliminar al General del Pueblo",
+    "detalle": "Factoría Seocheon [Mundo 2]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Zhang Liang",
+     "npc": "<Alma de Artesano> Conductor de Almas · Factoría Seocheon [Mundo 2]",
+     "farmeo": "Vela: Beksan, en Camino enmarañado de Twinway [Mundo 2].\nBandana dorada: Turbantes Amarillos, en Factoría Seocheon [Mundo 2].",
+     "icono": {
+      "img": "img/invocados/img31.png",
+      "x": 0,
+      "y": 0,
+      "w": 138,
+      "h": 138,
+      "iw": 138,
+      "ih": 138
+     },
+     "craft_img": {
+      "img": "img/invocados/craft17.png",
+      "w": 764,
+      "h": 200
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img30.png",
+      "x": 3,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 332,
+      "ih": 104
+     },
+     {
+      "img": "img/invocados/img30.png",
+      "x": 117,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 332,
+      "ih": 104
+     }
+    ],
+    "nivel": "143+"
+   },
+   {
+    "zona": "Invocaciones 143+",
+    "nivel": "143+",
+    "nombre": "Eliminar monstruo + Llegada de Beksan",
+    "detalle": "Camino enmarañado de Twinway [Mundo 2]",
+    "frecuencia": "semanal",
+    "misiones": [
+     {
+      "nombre": "Eliminar monstruo",
+      "iconos": [
+       {
+        "img": "img/invocados/img32.png",
+        "x": 3,
+        "y": 3,
+        "w": 102,
+        "h": 102,
+        "iw": 224,
+        "ih": 108
+       }
+      ]
+     },
+     {
+      "nombre": "Llegada de Beksan",
+      "iconos": [
+       {
+        "img": "img/invocados/img34.png",
+        "x": 3,
+        "y": 3,
+        "w": 100,
+        "h": 100,
+        "iw": 334,
+        "ih": 106
+       },
+       {
+        "img": "img/invocados/img34.png",
+        "x": 117,
+        "y": 3,
+        "w": 100,
+        "h": 100,
+        "iw": 334,
+        "ih": 106
+       }
+      ]
+     }
+    ],
+    "iconos": [
+     {
+      "img": "img/invocados/img32.png",
+      "x": 3,
+      "y": 3,
+      "w": 102,
+      "h": 102,
+      "iw": 224,
+      "ih": 108
+     },
+     {
+      "img": "img/invocados/img34.png",
+      "x": 3,
+      "y": 3,
+      "w": 100,
+      "h": 100,
+      "iw": 334,
+      "ih": 106
+     },
+     {
+      "img": "img/invocados/img34.png",
+      "x": 117,
+      "y": 3,
+      "w": 100,
+      "h": 100,
+      "iw": 334,
+      "ih": 106
+     }
+    ],
+    "info": {
+     "item": "Twinway",
+     "npc": "<Alma de Artesano> Conductor de Almas · Factoría Seocheon [Mundo 2]",
+     "farmeo": "Mercado",
+     "icono": {
+      "img": "img/invocados/img33.png",
+      "x": 0,
+      "y": 0,
+      "w": 140,
+      "h": 138,
+      "iw": 140,
+      "ih": 138
+     },
+     "craft_img": {
+      "img": "img/invocados/craft18.png",
+      "w": 758,
+      "h": 200
+     }
+    }
+   },
+   {
+    "zona": "Invocaciones 143+",
+    "nombre": "Eliminar al General de la Tierra",
+    "detalle": "Montaña de luna sangrienta [Mundo 2]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Zhang Bao",
+     "npc": "<Alma de Artesano> Conductor de Almas · Factoría Seocheon [Mundo 2]",
+     "farmeo": "Japamala del Rey de los Toros Malvados: derrotando al Rey de los Toros Malvados.\nTrozo de rencor de espectro: mobs \"Espectro\" en Montaña de luna sangrienta y Factoría Seocheon [Mundo 2].",
+     "icono": {
+      "img": "img/invocados/img36.png",
+      "x": 0,
+      "y": 0,
+      "w": 138,
+      "h": 144,
+      "iw": 138,
+      "ih": 144
+     },
+     "craft_img": {
+      "img": "img/invocados/craft20.png",
+      "w": 777,
+      "h": 200
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img35.png",
+      "x": 3,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 336,
+      "ih": 107
+     },
+     {
+      "img": "img/invocados/img35.png",
+      "x": 118,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 336,
+      "ih": 107
+     }
+    ],
+    "nivel": "143+"
+   },
+   {
+    "zona": "Invocaciones 143+",
+    "nombre": "Llegada del Rey de los Toros Malvados",
+    "detalle": "Rey de los Toros Malvados [Mundo 2]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Rey de los Toros Malvados",
+     "npc": "<Alma de Artesano> Conductor de Almas · Factoría Seocheon [Mundo 2]",
+     "farmeo": "Mercado",
+     "icono": {
+      "img": "img/invocados/img38.png",
+      "x": 0,
+      "y": 0,
+      "w": 139,
+      "h": 135,
+      "iw": 139,
+      "ih": 135
+     },
+     "craft_img": {
+      "img": "img/invocados/craft21.png",
+      "w": 771,
+      "h": 202
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img37.png",
+      "x": 3,
+      "y": 3,
+      "w": 96,
+      "h": 96,
+      "iw": 218,
+      "ih": 102
+     }
+    ],
+    "nivel": "143+"
+   },
+   {
+    "zona": "Invocaciones 143+",
+    "nombre": "Eliminar a la Malicia del Campo de hielo",
+    "detalle": "Campo de hielo del nonadragón [Mundo 5]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Flauta consoladora de almas",
+     "npc": "<Artesano> Gufa · Campo de hielo del nonadragón [Mundo 5]",
+     "farmeo": "Bambú mágico: Khan Nefariox Erguido, en Ruina del Demonio [Mundo 5].\nEsencia de salvaje impecable: bestias del Campo de hielo del nonadragón [Mundo 5].",
+     "icono": {
+      "img": "img/invocados/img40.png",
+      "x": 0,
+      "y": 0,
+      "w": 139,
+      "h": 135,
+      "iw": 139,
+      "ih": 135
+     },
+     "craft_img": {
+      "img": "img/invocados/craft22.png",
+      "w": 766,
+      "h": 206
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img39.png",
+      "x": 3,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 335,
+      "ih": 105
+     },
+     {
+      "img": "img/invocados/img39.png",
+      "x": 118,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 335,
+      "ih": 105
+     }
+    ],
+    "nivel": "143+"
+   },
+   {
+    "zona": "Invocaciones 143+",
+    "nivel": "143+",
+    "nombre": "Eliminar monstruo + Llegada de Khan Nefariox Erguido",
+    "detalle": "Ruina del Demonio [Mundo 5]",
+    "frecuencia": "semanal",
+    "misiones": [
+     {
+      "nombre": "Eliminar monstruo",
+      "iconos": [
+       {
+        "img": "img/invocados/img41.png",
+        "x": 3,
+        "y": 3,
+        "w": 103,
+        "h": 103,
+        "iw": 334,
+        "ih": 109
+       },
+       {
+        "img": "img/invocados/img41.png",
+        "x": 116,
+        "y": 3,
+        "w": 103,
+        "h": 103,
+        "iw": 334,
+        "ih": 109
+       }
+      ]
+     },
+     {
+      "nombre": "Llegada de Khan Nefariox Erguido",
+      "iconos": [
+       {
+        "img": "img/invocados/img43.png",
+        "x": 3,
+        "y": 3,
+        "w": 99,
+        "h": 99,
+        "iw": 334,
+        "ih": 105
+       },
+       {
+        "img": "img/invocados/img43.png",
+        "x": 118,
+        "y": 3,
+        "w": 99,
+        "h": 99,
+        "iw": 334,
+        "ih": 105
+       }
+      ]
+     }
+    ],
+    "iconos": [
+     {
+      "img": "img/invocados/img41.png",
+      "x": 3,
+      "y": 3,
+      "w": 103,
+      "h": 103,
+      "iw": 334,
+      "ih": 109
+     },
+     {
+      "img": "img/invocados/img41.png",
+      "x": 116,
+      "y": 3,
+      "w": 103,
+      "h": 103,
+      "iw": 334,
+      "ih": 109
+     },
+     {
+      "img": "img/invocados/img43.png",
+      "x": 3,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 334,
+      "ih": 105
+     },
+     {
+      "img": "img/invocados/img43.png",
+      "x": 118,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 334,
+      "ih": 105
+     }
+    ],
+    "info": {
+     "item": "Demonio de la Ruina",
+     "npc": "<Artesano> Gufa · Campo de hielo del nonadragón [Mundo 5]",
+     "farmeo": "Mercado",
+     "icono": {
+      "img": "img/invocados/img42.png",
+      "x": 0,
+      "y": 0,
+      "w": 139,
+      "h": 138,
+      "iw": 139,
+      "ih": 138
+     },
+     "craft_img": {
+      "img": "img/invocados/craft23.png",
+      "w": 774,
+      "h": 196
+     }
+    }
+   },
+   {
+    "zona": "Invocaciones 143+",
+    "nombre": "Llegada del Sagitario Etéreo",
+    "detalle": "Demonio arácnido etéreo [Mundo 5]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Sagitario Etéreo",
+     "npc": "<Artesano> Gufa · Campo de hielo del nonadragón [Mundo 5]",
+     "farmeo": "Mercado",
+     "icono": {
+      "img": "img/invocados/img45.png",
+      "x": 0,
+      "y": 0,
+      "w": 139,
+      "h": 141,
+      "iw": 139,
+      "ih": 141
+     },
+     "craft_img": {
+      "img": "img/invocados/craft25.png",
+      "w": 769,
+      "h": 197
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img44.png",
+      "x": 3,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 331,
+      "ih": 107
+     },
+     {
+      "img": "img/invocados/img44.png",
+      "x": 115,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 331,
+      "ih": 107
+     }
+    ],
+    "nivel": "143+"
+   },
+   {
+    "zona": "Invocaciones 143+",
+    "nombre": "Eliminar al Guardián del Templo Despertado",
+    "detalle": "Templo de ilusión [Mundo 5]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Bomba de rayos",
+     "npc": "<Mesa de creación> Mesa del Maestro de los Rayos",
+     "farmeo": "Astilla de metal de Sagitario: Sagitarios del Templo de ilusión [Mundo 5].\nPolvo ilusorio de Goblin: demonios de todo el Templo de ilusión [Mundo 5].",
+     "icono": {
+      "img": "img/invocados/img47.png",
+      "x": 0,
+      "y": 0,
+      "w": 140,
+      "h": 142,
+      "iw": 140,
+      "ih": 142
+     },
+     "craft_img": {
+      "img": "img/invocados/craft26.png",
+      "w": 770,
+      "h": 191
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img46.png",
+      "x": 3,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 334,
+      "ih": 107
+     },
+     {
+      "img": "img/invocados/img46.png",
+      "x": 116,
+      "y": 3,
+      "w": 101,
+      "h": 101,
+      "iw": 334,
+      "ih": 107
+     }
+    ],
+    "nivel": "143+"
+   },
+   {
+    "zona": "Invocaciones 150+",
+    "nombre": "Aparición del Capitán de Vigía",
+    "detalle": "Necrópolis de los nefarios [Mundo 3]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Urungka",
+     "npc": "<Herrero> Hyeokjun · Necrópolis de los nefarios [Mundo 3]",
+     "farmeo": "Caparazón del Armadillo Sombrío: Estruendo Armadillo Sombrío de la Necrópolis de los nefarios [Mundo 3].\nPiedra de energía demoníaca: todos los demonios de la Necrópolis de los nefarios [Mundo 3].",
+     "icono": {
+      "img": "img/invocados/img49.png",
+      "x": 0,
+      "y": 0,
+      "w": 139,
+      "h": 139,
+      "iw": 139,
+      "ih": 139
+     },
+     "craft_img": {
+      "img": "img/invocados/craft27.png",
+      "w": 790,
+      "h": 218
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img48.png",
+      "x": 3,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 218,
+      "ih": 105
+     }
+    ],
+    "nivel": "150+"
+   },
+   {
+    "zona": "Invocaciones 150+",
+    "nombre": "Eliminar al Soberano de la Llanura de las Víboras Monstruosas",
+    "detalle": "Llanura de bestias viperinas [Mundo 3]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Kaya",
+     "npc": "<Herrero> Hyeokjun · Necrópolis de los nefarios [Mundo 3]",
+     "farmeo": "Ornamento de cinturón del soldado demoníaco sombrío: militares del Estado Mayor del Vacío de la Llanura [Mundo 3].\nEnergía del vacío condensada: todos los demonios de la Llanura de bestias viperinas [Mundo 3].",
+     "icono": {
+      "img": "img/invocados/img51.png",
+      "x": 0,
+      "y": 0,
+      "w": 140,
+      "h": 137,
+      "iw": 140,
+      "ih": 137
+     },
+     "craft_img": {
+      "img": "img/invocados/craft28.png",
+      "w": 756,
+      "h": 201
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img50.png",
+      "x": 3,
+      "y": 3,
+      "w": 95,
+      "h": 95,
+      "iw": 330,
+      "ih": 101
+     },
+     {
+      "img": "img/invocados/img50.png",
+      "x": 118,
+      "y": 3,
+      "w": 95,
+      "h": 95,
+      "iw": 330,
+      "ih": 101
+     }
+    ],
+    "nivel": "150+"
+   },
+   {
+    "zona": "Invocaciones 150+",
+    "nivel": "150+",
+    "nombre": "Derrotar al Rey Armadillo Sombrío + Extinguir monstruo",
+    "detalle": "Guarida del Armadillo Sombrío [Mundo 3]",
+    "frecuencia": "semanal",
+    "misiones": [
+     {
+      "nombre": "Derrotar al Rey Armadillo Sombrío",
+      "iconos": [
+       {
+        "img": "img/invocados/img52.png",
+        "x": 3,
+        "y": 3,
+        "w": 98,
+        "h": 98,
+        "iw": 329,
+        "ih": 104
+       },
+       {
+        "img": "img/invocados/img52.png",
+        "x": 116,
+        "y": 3,
+        "w": 98,
+        "h": 98,
+        "iw": 329,
+        "ih": 104
+       }
+      ]
+     },
+     {
+      "nombre": "Extinguir monstruo",
+      "iconos": [
+       {
+        "img": "img/invocados/img54.png",
+        "x": 3,
+        "y": 3,
+        "w": 98,
+        "h": 98,
+        "iw": 327,
+        "ih": 104
+       },
+       {
+        "img": "img/invocados/img54.png",
+        "x": 114,
+        "y": 3,
+        "w": 98,
+        "h": 98,
+        "iw": 327,
+        "ih": 104
+       }
+      ]
+     }
+    ],
+    "iconos": [
+     {
+      "img": "img/invocados/img52.png",
+      "x": 3,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 329,
+      "ih": 104
+     },
+     {
+      "img": "img/invocados/img52.png",
+      "x": 116,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 329,
+      "ih": 104
+     },
+     {
+      "img": "img/invocados/img54.png",
+      "x": 3,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 327,
+      "ih": 104
+     },
+     {
+      "img": "img/invocados/img54.png",
+      "x": 114,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 327,
+      "ih": 104
+     }
+    ],
+    "info": {
+     "item": "Armadillo Sombrío",
+     "npc": "<Herrero> Hyeokjun · Necrópolis de los nefarios [Mundo 3]",
+     "farmeo": "Flor de granada rara: raids / mercado.\nPergamino de invocación de demonio: más común en jefes de mapa / mercado.",
+     "icono": {
+      "img": "img/invocados/img53.png",
+      "x": 0,
+      "y": 0,
+      "w": 139,
+      "h": 140,
+      "iw": 139,
+      "ih": 140
+     },
+     "craft_img": {
+      "img": "img/invocados/craft30.png",
+      "w": 776,
+      "h": 199
+     }
+    }
+   },
+   {
+    "zona": "Invocaciones 150+",
+    "nombre": "Aparición del Espectro del Hueso de Acero",
+    "detalle": "Espectro del Hueso de Acero [Mundo 3]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Espectro del Hueso de Acero",
+     "npc": "<Herrero> Hyeokjun · Necrópolis de los nefarios [Mundo 3]",
+     "farmeo": "Flor de granada rara: raids / mercado.\nPergamino de invocación de demonio: más común en jefes de mapa / mercado.",
+     "icono": {
+      "img": "img/invocados/img56.png",
+      "x": 0,
+      "y": 0,
+      "w": 137,
+      "h": 139,
+      "iw": 137,
+      "ih": 139
+     },
+     "craft_img": {
+      "img": "img/invocados/craft31.png",
+      "w": 772,
+      "h": 200
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img55.png",
+      "x": 3,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 330,
+      "ih": 105
+     },
+     {
+      "img": "img/invocados/img55.png",
+      "x": 116,
+      "y": 3,
+      "w": 99,
+      "h": 99,
+      "iw": 330,
+      "ih": 105
+     }
+    ],
+    "nivel": "150+"
+   },
+   {
+    "zona": "Invocaciones 150+",
+    "nivel": "150+",
+    "nombre": "Aparición del Vampiro Fantasmal + Extinguir monstruo",
+    "detalle": "Mina demoníaca [Mundo 6]",
+    "frecuencia": "semanal",
+    "misiones": [
+     {
+      "nombre": "Aparición del Vampiro Fantasmal",
+      "iconos": [
+       {
+        "img": "img/invocados/img57.png",
+        "x": 3,
+        "y": 3,
+        "w": 97,
+        "h": 97,
+        "iw": 331,
+        "ih": 103
+       },
+       {
+        "img": "img/invocados/img57.png",
+        "x": 117,
+        "y": 3,
+        "w": 97,
+        "h": 97,
+        "iw": 331,
+        "ih": 103
+       }
+      ]
+     },
+     {
+      "nombre": "Extinguir monstruo",
+      "iconos": [
+       {
+        "img": "img/invocados/img59.png",
+        "x": 3,
+        "y": 3,
+        "w": 98,
+        "h": 98,
+        "iw": 330,
+        "ih": 104
+       },
+       {
+        "img": "img/invocados/img59.png",
+        "x": 116,
+        "y": 3,
+        "w": 98,
+        "h": 98,
+        "iw": 330,
+        "ih": 104
+       }
+      ]
+     }
+    ],
+    "iconos": [
+     {
+      "img": "img/invocados/img57.png",
+      "x": 3,
+      "y": 3,
+      "w": 97,
+      "h": 97,
+      "iw": 331,
+      "ih": 103
+     },
+     {
+      "img": "img/invocados/img57.png",
+      "x": 117,
+      "y": 3,
+      "w": 97,
+      "h": 97,
+      "iw": 331,
+      "ih": 103
+     },
+     {
+      "img": "img/invocados/img59.png",
+      "x": 3,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 330,
+      "ih": 104
+     },
+     {
+      "img": "img/invocados/img59.png",
+      "x": 116,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 330,
+      "ih": 104
+     }
+    ],
+    "info": {
+     "item": "Demonio de la Mina demoníaca",
+     "npc": "<Dueño de la mesa de creación> Gyeongbin · [Mundo 6]",
+     "farmeo": "Flor de granada rara: raids / mercado.\nPergamino de invocación de demonio: más común en jefes de mapa / mercado.",
+     "icono": {
+      "img": "img/invocados/img58.png",
+      "x": 0,
+      "y": 0,
+      "w": 140,
+      "h": 141,
+      "iw": 140,
+      "ih": 141
+     },
+     "craft_img": {
+      "img": "img/invocados/craft32.png",
+      "w": 784,
+      "h": 216
+     }
+    }
+   },
+   {
+    "zona": "Invocaciones 150+",
+    "nombre": "Eliminar al Ladrón Fantasma Sin Sombra (Hangga)",
+    "detalle": "Laberinto de Bicheon [Mundo 6]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Tesoro misterioso",
+     "npc": "<Dueño de la mesa de creación> Gyeongbin · [Mundo 6]",
+     "farmeo": "Lingote de plata mejorado: tropa de semimonstruos Adoradores del Cielo Caótico del Laberinto de Bicheon [Mundo 6].\nPiedra amarilla: todos los monstruos del Laberinto de Bicheon [Mundo 6].",
+     "icono": {
+      "img": "img/invocados/img61.png",
+      "x": 0,
+      "y": 0,
+      "w": 140,
+      "h": 139,
+      "iw": 140,
+      "ih": 139
+     },
+     "craft_img": {
+      "img": "img/invocados/craft34.png",
+      "w": 763,
+      "h": 204
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img60.png",
+      "x": 3,
+      "y": 3,
+      "w": 96,
+      "h": 96,
+      "iw": 330,
+      "ih": 102
+     },
+     {
+      "img": "img/invocados/img60.png",
+      "x": 117,
+      "y": 3,
+      "w": 96,
+      "h": 96,
+      "iw": 330,
+      "ih": 102
+     }
+    ],
+    "nivel": "150+"
+   },
+   {
+    "zona": "Invocaciones 150+",
+    "nombre": "Eliminar al Demonio Venenoso Celestial (Jo Gyu)",
+    "detalle": "Laberinto de Bicheon [Mundo 6]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Jo Gyu",
+     "npc": "<Dueño de la mesa de creación> Gyeongbin · [Mundo 6]",
+     "farmeo": "Píldora del Gran Ciempiés: Gran Ciempiés [Mundo 6].\nLibro de debilidades del líder Adorador del Cielo Caótico: Adoradores del Cielo Caótico de Laberinto de Bicheon, Bosque fantasmal y Pueblo de Bicheon [Mundo 6].",
+     "icono": {
+      "img": "img/invocados/img63.png",
+      "x": 0,
+      "y": 0,
+      "w": 139,
+      "h": 138,
+      "iw": 139,
+      "ih": 138
+     },
+     "craft_img": {
+      "img": "img/invocados/craft35.png",
+      "w": 771,
+      "h": 195
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img62.png",
+      "x": 3,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 330,
+      "ih": 104
+     },
+     {
+      "img": "img/invocados/img62.png",
+      "x": 116,
+      "y": 3,
+      "w": 98,
+      "h": 98,
+      "iw": 330,
+      "ih": 104
+     }
+    ],
+    "nivel": "150+"
+   },
+   {
+    "zona": "Invocaciones 150+",
+    "nombre": "Aparición del Gran Ciempiés",
+    "detalle": "Gran Ciempiés [Mundo 6]",
+    "frecuencia": "semanal",
+    "info": {
+     "item": "Gran Ciempiés",
+     "npc": "<Dueño de la mesa de creación> Gyeongbin · [Mundo 6]",
+     "farmeo": "Flor de granada rara: raids / mercado.\nPergamino de invocación de demonio: más común en jefes de mapa / mercado.",
+     "icono": {
+      "img": "img/invocados/img65.png",
+      "x": 0,
+      "y": 0,
+      "w": 138,
+      "h": 140,
+      "iw": 138,
+      "ih": 140
+     },
+     "craft_img": {
+      "img": "img/invocados/craft36.png",
+      "w": 778,
+      "h": 217
+     }
+    },
+    "iconos": [
+     {
+      "img": "img/invocados/img64.png",
+      "x": 3,
+      "y": 3,
+      "w": 100,
+      "h": 100,
+      "iw": 332,
+      "ih": 106
+     },
+     {
+      "img": "img/invocados/img64.png",
+      "x": 116,
+      "y": 3,
+      "w": 100,
+      "h": 100,
+      "iw": 332,
+      "ih": 106
+     }
+    ],
+    "nivel": "150+"
+   },
+   {
+    "zona": "Invocaciones 155+",
+    "nivel": "155+",
+    "nombre": "Elimina al Anciano de asociación de fundición carmesí",
+    "detalle": "Montaña de Siete valles [Plano 1 del mundo 1]",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/invocados/songkwang-juego.png",
+      "x": 715,
+      "y": 140,
+      "w": 52,
+      "h": 52,
+      "iw": 1110,
+      "ih": 250
+     },
+     {
+      "img": "img/invocados/songkwang-juego.png",
+      "x": 795,
+      "y": 140,
+      "w": 52,
+      "h": 52,
+      "iw": 1110,
+      "ih": 250
+     }
+    ],
+    "info": {
+     "item": "Placa de fundición carmesí de Songkwang",
+     "npc": "",
+     "farmeo": "",
+     "icono": {
+      "img": "img/invocados/songkwang-item.png",
+      "x": 0,
+      "y": 0,
+      "w": 90,
+      "h": 94,
+      "iw": 90,
+      "ih": 94
+     },
+     "craft_img": {
+      "img": "img/invocados/songkwang-craft.png",
+      "w": 487,
+      "h": 134
+     },
+     "craft": "Pieza de hombrera de Yaksha de ojos nocturnos (2) · Sello de asociación de fundición carmesí (300) · Fragmento del Dragón divino (300) · Piedra mágica de maná épica II (1)"
+    }
+   },
+   {
+    "zona": "Invocaciones 155+",
+    "nivel": "155+",
+    "nombre": "Elimina al Dragón humanoide",
+    "detalle": "Isla de fuego ardiente [Plano 1 del mundo 1]",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/invocados/porung-juego.png",
+      "x": 694,
+      "y": 36,
+      "w": 52,
+      "h": 52,
+      "iw": 1093,
+      "ih": 380
+     },
+     {
+      "img": "img/invocados/porung-juego.png",
+      "x": 764,
+      "y": 36,
+      "w": 52,
+      "h": 52,
+      "iw": 1093,
+      "ih": 380
+     }
+    ],
+    "info": {
+     "item": "Invocación de Porung",
+     "npc": "",
+     "farmeo": "",
+     "icono": {
+      "img": "img/invocados/porung-item.png",
+      "x": 0,
+      "y": 0,
+      "w": 93,
+      "h": 92,
+      "iw": 93,
+      "ih": 92
+     },
+     "craft_img": {
+      "img": "img/invocados/porung-craft.png",
+      "w": 485,
+      "h": 132
+     },
+     "craft": "Japa mala oscuro de Bulhu (2) · Placa de comando de la asociación de fundición carmesí (300) · Fragmento del Dragón divino (300) · Abalorio de Tigre blanco reluciente (1)"
+    }
+   },
+   {
+    "zona": "Invocaciones 155+",
+    "nivel": "155+",
+    "nombre": "Elimina al Comandante supremo rebelde",
+    "detalle": "Campo de hielo del nonadragón [Plano 1 del mundo 2]",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/invocados/gangmuhyeon-juego.png",
+      "x": 723,
+      "y": 119,
+      "w": 52,
+      "h": 52,
+      "iw": 1122,
+      "ih": 214
+     },
+     {
+      "img": "img/invocados/gangmuhyeon-juego.png",
+      "x": 793,
+      "y": 119,
+      "w": 52,
+      "h": 52,
+      "iw": 1122,
+      "ih": 214
+     }
+    ],
+    "info": {
+     "item": "Invocación de Gang Muhyeon",
+     "npc": "",
+     "farmeo": "",
+     "icono": {
+      "img": "img/invocados/gangmuhyeon-item.png",
+      "x": 0,
+      "y": 0,
+      "w": 97,
+      "h": 92,
+      "iw": 97,
+      "ih": 92
+     },
+     "craft_img": {
+      "img": "img/invocados/gangmuhyeon-craft.png",
+      "w": 492,
+      "h": 136
+     },
+     "craft": "Suministros saqueados por los rebeldes (1) · Pieza de hielo (300) · Fragmento del Dragón divino (300) · Piedra mágica de vigor épica (1)"
+    }
+   },
+   {
+    "zona": "Invocaciones 155+",
+    "nivel": "155+",
+    "nombre": "Purifica el Señor de orden",
+    "detalle": "Valle de Sangre celestial [Plano 1 del mundo 2]",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/invocados/grandor-juego.png",
+      "x": 734,
+      "y": 36,
+      "w": 58,
+      "h": 58,
+      "iw": 1102,
+      "ih": 191
+     },
+     {
+      "img": "img/invocados/grandor-juego.png",
+      "x": 800,
+      "y": 36,
+      "w": 58,
+      "h": 58,
+      "iw": 1102,
+      "ih": 191
+     }
+    ],
+    "info": {
+     "item": "Invocación de Grandor",
+     "npc": "",
+     "farmeo": "",
+     "icono": {
+      "img": "img/invocados/grandor-item.png",
+      "x": 0,
+      "y": 0,
+      "w": 94,
+      "h": 93,
+      "iw": 94,
+      "ih": 93
+     },
+     "craft_img": {
+      "img": "img/invocados/grandor-craft.png",
+      "w": 508,
+      "h": 141
+     },
+     "craft": "Pedazo del caos (300) · Pedazo del orden (300) · Pedazo del equilibrio (4) · Abalorio de Tortuga negra reluciente (1)"
+    }
+   },
+   {
+    "zona": "Invocaciones 158+",
+    "nivel": "158+",
+    "nombre": "Elimina al jefe del escuadrón invasor de los Nefarios primales",
+    "detalle": "Aldea Unhae [Plano 1 del mundo 3]",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/invocados/gordo-juego.png",
+      "x": 723,
+      "y": 74,
+      "w": 62,
+      "h": 62,
+      "iw": 1115,
+      "ih": 190
+     },
+     {
+      "img": "img/invocados/gordo-juego.png",
+      "x": 793,
+      "y": 74,
+      "w": 62,
+      "h": 62,
+      "iw": 1115,
+      "ih": 190
+     }
+    ],
+    "info": {
+     "item": "Invocación de Gordo",
+     "npc": "",
+     "farmeo": "",
+     "icono": {
+      "img": "img/invocados/gordo-item.png",
+      "x": 0,
+      "y": 0,
+      "w": 98,
+      "h": 98,
+      "iw": 98,
+      "ih": 98
+     },
+     "craft_img": {
+      "img": "img/invocados/gordo-craft.png",
+      "w": 491,
+      "h": 138
+     },
+     "craft": "Piel de Bestia (1.000) · Sangre de la bestia demoníaca (300) · Fragmento del Dragón divino (500) · Esencia del Dragón negro legendario (1)"
+    }
+   },
+   {
+    "zona": "Invocaciones 158+",
+    "nivel": "158+",
+    "nombre": "Elimina al traidor de las profundidades marinas",
+    "detalle": "Fondo de las hidras [Plano 1 del mundo 3]",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/invocados/kairak-juego.png",
+      "x": 745,
+      "y": 60,
+      "w": 62,
+      "h": 62,
+      "iw": 1137,
+      "ih": 160
+     },
+     {
+      "img": "img/invocados/kairak-juego.png",
+      "x": 815,
+      "y": 60,
+      "w": 62,
+      "h": 62,
+      "iw": 1137,
+      "ih": 160
+     }
+    ],
+    "info": {
+     "item": "Invocación de Kairak",
+     "npc": "",
+     "farmeo": "",
+     "icono": {
+      "img": "img/invocados/kairak-item.png",
+      "x": 0,
+      "y": 0,
+      "w": 95,
+      "h": 104,
+      "iw": 95,
+      "ih": 104
+     },
+     "craft_img": {
+      "img": "img/invocados/kairak-craft.png",
+      "w": 513,
+      "h": 151
+     },
+     "craft": "Aliento del Vacío (300) · Pedazo del Engaño (1.000) · Fragmento del Dragón divino (300) · Esencia del Dragón blanco legendario (1)"
+    }
+   }
+  ],
+  "dominacion": [
+   {
+    "zona": "Pueblo de Sabuk [Dominación]",
+    "nombre": "Súplica del recolector de láminas",
+    "detalle": "Recoge láminas del Dragón negro (480)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/laminas.webp",
+      "x": 837,
+      "y": 322,
+      "w": 70,
+      "h": 70,
+      "iw": 1292,
+      "ih": 634
+     }
+    ]
+   },
+   {
+    "zona": "Laberinto de dominación P1",
+    "nombre": "Encargo del recolector de láminas",
+    "detalle": "Recoge láminas del Dragón negro 1 (300)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/laminas.webp",
+      "x": 837,
+      "y": 322,
+      "w": 70,
+      "h": 70,
+      "iw": 1292,
+      "ih": 634
+     }
+    ]
+   },
+   {
+    "zona": "Laberinto de dominación P2",
+    "nombre": "Encargo del recolector de láminas",
+    "detalle": "Recoge láminas del Dragón negro 2 (300)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/laminas.webp",
+      "x": 837,
+      "y": 322,
+      "w": 70,
+      "h": 70,
+      "iw": 1292,
+      "ih": 634
+     }
+    ]
+   },
+   {
+    "zona": "Laberinto de dominación P3",
+    "nombre": "Encargo del recolector de láminas",
+    "detalle": "Recoge láminas del Dragón negro 3 (300)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/laminas.webp",
+      "x": 837,
+      "y": 322,
+      "w": 70,
+      "h": 70,
+      "iw": 1292,
+      "ih": 634
+     }
+    ]
+   },
+   {
+    "zona": "Laberinto de dominación P4",
+    "nombre": "Encargo del recolector de láminas",
+    "detalle": "Recoge láminas del Dragón negro 4 (300)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/laminas.webp",
+      "x": 837,
+      "y": 322,
+      "w": 70,
+      "h": 70,
+      "iw": 1292,
+      "ih": 634
+     }
+    ]
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P1",
+    "nombre": "Fuerza mística 1",
+    "detalle": "Recoge energía de dragones 1 (400)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p1.webp",
+      "x": 925,
+      "y": 370,
+      "w": 70,
+      "h": 70,
+      "iw": 1347,
+      "ih": 705
+     }
+    ]
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P1",
+    "nombre": "Ruptura de demonios del vacío 1",
+    "detalle": "Reprime al Señor dominador supremo",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p1-ruptura.png",
+      "x": 931,
+      "y": 170,
+      "w": 70,
+      "h": 70,
+      "iw": 1284,
+      "ih": 297
+     }
+    ],
+    "info": {
+     "item": "Señor del Bloqueo Impenetrable",
+     "npc": "<Virtuoso Escaramuzador> Taoísta Sin Nombre · [Dominación] Pueblo de Sabuk",
+     "farmeo": "Los equipos de códex se crean desde el menú del juego con las \"insignias del demonio\": \"+\" > Crear > Crear > Crear material > Equipo de códex.",
+     "craft": "Los cuatro refinados de abajo a la derecha en el NPC de creación.",
+     "icono": {
+      "img": "img/invocados/img26.png",
+      "x": 0,
+      "y": 0,
+      "w": 127,
+      "h": 127,
+      "iw": 127,
+      "ih": 127
+     },
+     "craft_img": {
+      "img": "img/invocados/craft14.png",
+      "w": 312,
+      "h": 309
+     }
+    }
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P2",
+    "nombre": "Fuerza mística 2",
+    "detalle": "Recoge energía de dragones 2 (400)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p2.webp",
+      "x": 908,
+      "y": 418,
+      "w": 70,
+      "h": 70,
+      "iw": 1293,
+      "ih": 713
+     }
+    ]
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P2",
+    "nombre": "Purificación del Valle oculto del Dragón negro 2",
+    "detalle": "Recoge manchas de sangre de los dragones 2 (600)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p2.webp",
+      "x": 829,
+      "y": 505,
+      "w": 70,
+      "h": 70,
+      "iw": 1293,
+      "ih": 713
+     },
+     {
+      "img": "img/dominacion/p2.webp",
+      "x": 908,
+      "y": 505,
+      "w": 70,
+      "h": 70,
+      "iw": 1293,
+      "ih": 713
+     }
+    ]
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P2",
+    "nombre": "Ruptura de demonios del vacío 2",
+    "detalle": "Reprime al Señor demonio sangriverde",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p2.webp",
+      "x": 829,
+      "y": 596,
+      "w": 70,
+      "h": 70,
+      "iw": 1293,
+      "ih": 713
+     },
+     {
+      "img": "img/dominacion/p2.webp",
+      "x": 908,
+      "y": 596,
+      "w": 70,
+      "h": 70,
+      "iw": 1293,
+      "ih": 713
+     }
+    ],
+    "info": {
+     "item": "Señor Demonio de Sangre Verde",
+     "npc": "<Virtuoso Escaramuzador> Taoísta Sin Nombre · [Dominación] Pueblo de Sabuk",
+     "farmeo": "Los equipos de códex se crean desde el menú del juego con las \"insignias del demonio\": \"+\" > Crear > Crear > Crear material > Equipo de códex.",
+     "craft": "Los cuatro refinados de abajo a la derecha en el menú de creación.",
+     "icono": {
+      "img": "img/invocados/img28.png",
+      "x": 0,
+      "y": 0,
+      "w": 127,
+      "h": 127,
+      "iw": 127,
+      "ih": 127
+     },
+     "craft_img": {
+      "img": "img/invocados/craft15.png",
+      "w": 317,
+      "h": 313
+     }
+    }
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P3",
+    "nombre": "Fuerza mística 3",
+    "detalle": "Recoge energía de dragones 3 (400)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p3.webp",
+      "x": 909,
+      "y": 333,
+      "w": 70,
+      "h": 70,
+      "iw": 1310,
+      "ih": 661
+     }
+    ]
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P3",
+    "nombre": "Purificación del Valle oculto del Dragón negro 3",
+    "detalle": "Recoge manchas de sangre de los dragones 3 (600)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p3.webp",
+      "x": 830,
+      "y": 423,
+      "w": 70,
+      "h": 70,
+      "iw": 1310,
+      "ih": 661
+     },
+     {
+      "img": "img/dominacion/p3.webp",
+      "x": 909,
+      "y": 423,
+      "w": 70,
+      "h": 70,
+      "iw": 1310,
+      "ih": 661
+     }
+    ]
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P3",
+    "nombre": "Ruptura de demonios del vacío 3",
+    "detalle": "Reprime al Rey de sangre negro oscuro",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p3.webp",
+      "x": 830,
+      "y": 513,
+      "w": 70,
+      "h": 70,
+      "iw": 1310,
+      "ih": 661
+     },
+     {
+      "img": "img/dominacion/p3.webp",
+      "x": 909,
+      "y": 513,
+      "w": 70,
+      "h": 70,
+      "iw": 1310,
+      "ih": 661
+     }
+    ],
+    "info": {
+     "item": "Señor Demonio de Sangre Oscura",
+     "npc": "<Virtuoso Escaramuzador> Taoísta Sin Nombre · [Dominación] Pueblo de Sabuk",
+     "farmeo": "Los equipos de códex se crean desde el menú del juego con las \"insignias del demonio\": \"+\" > Crear > Crear > Crear material > Equipo de códex.",
+     "craft": "Los cuatro refinados de abajo a la derecha en el menú de creación.",
+     "icono": {
+      "img": "img/invocados/img28.png",
+      "x": 0,
+      "y": 0,
+      "w": 127,
+      "h": 127,
+      "iw": 127,
+      "ih": 127
+     },
+     "craft_img": {
+      "img": "img/invocados/craft16.png",
+      "w": 312,
+      "h": 312
+     }
+    }
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P4",
+    "nombre": "Fuerza mística 4",
+    "detalle": "Recoge energía de dragones 4 (400)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p4.webp",
+      "x": 891,
+      "y": 421,
+      "w": 70,
+      "h": 70,
+      "iw": 1213,
+      "ih": 636
+     }
+    ]
+   },
+   {
+    "zona": "Valle oculto del Dragón negro P4",
+    "nombre": "Purificación del Valle oculto del Dragón negro 4",
+    "detalle": "Recoge manchas de sangre de los dragones 4 (600)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/p4.webp",
+      "x": 812,
+      "y": 508,
+      "w": 70,
+      "h": 70,
+      "iw": 1213,
+      "ih": 636
+     },
+     {
+      "img": "img/dominacion/p4.webp",
+      "x": 891,
+      "y": 508,
+      "w": 70,
+      "h": 70,
+      "iw": 1213,
+      "ih": 636
+     }
+    ]
+   }
+  ],
+  "purgatorio": [
+   {
+    "zona": "Purgatorio de Luna sangrienta P3",
+    "nombre": "Subyuga el Purgatorio de Luna sangrienta P3",
+    "detalle": "Elimina a todos los monstruos (1.000)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 813,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     },
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 893,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     }
+    ]
+   },
+   {
+    "zona": "Purgatorio de Luna sangrienta P4",
+    "nombre": "Subyuga el Purgatorio de Luna sangrienta P4",
+    "detalle": "Elimina a todos los monstruos (1.000)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 813,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     },
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 893,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     }
+    ]
+   },
+   {
+    "zona": "Purgatorio de Luna sangrienta P5",
+    "nombre": "Subyuga el Purgatorio de Luna sangrienta P5",
+    "detalle": "Elimina a todos los monstruos (1.000)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 813,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     },
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 893,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     }
+    ]
+   },
+   {
+    "zona": "Purgatorio de Luna sangrienta P6",
+    "nombre": "Subyuga el Purgatorio de Luna sangrienta P6",
+    "detalle": "Elimina a todos los monstruos (1.000)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 813,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     },
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 893,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     }
+    ]
+   },
+   {
+    "zona": "Purgatorio de Luna sangrienta P7",
+    "nombre": "Subyuga el Purgatorio de Luna sangrienta P7",
+    "detalle": "Elimina a todos los monstruos (1.000)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 813,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     },
+     {
+      "img": "img/dominacion/purgatorio.png",
+      "x": 893,
+      "y": 62,
+      "w": 70,
+      "h": 70,
+      "iw": 1279,
+      "ih": 439
+     }
+    ]
+   },
+   {
+    "zona": "Purgatorio de Luna sangrienta P7",
+    "nombre": "Aparición de Señor infernal",
+    "detalle": "Vence a Helbar (1)",
+    "frecuencia": "mensual",
+    "iconos": [
+     {
+      "img": "img/dominacion/purgatorio-p7.webp",
+      "x": 894,
+      "y": 445,
+      "w": 70,
+      "h": 70,
+      "iw": 1349,
+      "ih": 677
+     }
+    ]
+   }
+  ],
+  "expedicion": [
+   {
+    "zona": "Cima inexplorada P7",
+    "nombre": "Justicia y virtud 1",
+    "detalle": "Vence a un jefe de 3 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p7.png",
+      "x": 608,
+      "y": 99,
+      "w": 52,
+      "h": 52,
+      "iw": 956,
+      "ih": 593
+     },
+     {
+      "img": "img/expedicion/p7.png",
+      "x": 667,
+      "y": 99,
+      "w": 52,
+      "h": 52,
+      "iw": 956,
+      "ih": 593
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P7",
+    "nombre": "Justicia y virtud 2",
+    "detalle": "Vence a un jefe de 5 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p7.png",
+      "x": 608,
+      "y": 437,
+      "w": 52,
+      "h": 52,
+      "iw": 956,
+      "ih": 593
+     },
+     {
+      "img": "img/expedicion/p7.png",
+      "x": 667,
+      "y": 437,
+      "w": 52,
+      "h": 52,
+      "iw": 956,
+      "ih": 593
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P7",
+    "nombre": "Justicia y virtud 3",
+    "detalle": "Vence a un jefe de 10 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p7.png",
+      "x": 608,
+      "y": 505,
+      "w": 52,
+      "h": 52,
+      "iw": 956,
+      "ih": 593
+     },
+     {
+      "img": "img/expedicion/p7.png",
+      "x": 667,
+      "y": 505,
+      "w": 52,
+      "h": 52,
+      "iw": 956,
+      "ih": 593
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P8",
+    "nombre": "Justicia y virtud 1",
+    "detalle": "Vence a un jefe de 3 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p8.png",
+      "x": 609,
+      "y": 545,
+      "w": 52,
+      "h": 52,
+      "iw": 975,
+      "ih": 677
+     },
+     {
+      "img": "img/expedicion/p8.png",
+      "x": 668,
+      "y": 545,
+      "w": 52,
+      "h": 52,
+      "iw": 975,
+      "ih": 677
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P8",
+    "nombre": "Justicia y virtud 2",
+    "detalle": "Vence a un jefe de 5 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p8.png",
+      "x": 609,
+      "y": 410,
+      "w": 52,
+      "h": 52,
+      "iw": 975,
+      "ih": 677
+     },
+     {
+      "img": "img/expedicion/p8.png",
+      "x": 668,
+      "y": 410,
+      "w": 52,
+      "h": 52,
+      "iw": 975,
+      "ih": 677
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P8",
+    "nombre": "Justicia y virtud 3",
+    "detalle": "Vence a un jefe de 10 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p8.png",
+      "x": 609,
+      "y": 477,
+      "w": 52,
+      "h": 52,
+      "iw": 975,
+      "ih": 677
+     },
+     {
+      "img": "img/expedicion/p8.png",
+      "x": 668,
+      "y": 477,
+      "w": 52,
+      "h": 52,
+      "iw": 975,
+      "ih": 677
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P9",
+    "nombre": "Justicia y virtud 1",
+    "detalle": "Vence a un jefe de 3 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p9.png",
+      "x": 619,
+      "y": 523,
+      "w": 52,
+      "h": 52,
+      "iw": 998,
+      "ih": 626
+     },
+     {
+      "img": "img/expedicion/p9.png",
+      "x": 678,
+      "y": 523,
+      "w": 52,
+      "h": 52,
+      "iw": 998,
+      "ih": 626
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P9",
+    "nombre": "Justicia y virtud 2",
+    "detalle": "Vence a un jefe de 5 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p9.png",
+      "x": 619,
+      "y": 388,
+      "w": 52,
+      "h": 52,
+      "iw": 998,
+      "ih": 626
+     },
+     {
+      "img": "img/expedicion/p9.png",
+      "x": 678,
+      "y": 388,
+      "w": 52,
+      "h": 52,
+      "iw": 998,
+      "ih": 626
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P9",
+    "nombre": "Justicia y virtud 3",
+    "detalle": "Vence a un jefe de 10 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p9.png",
+      "x": 619,
+      "y": 455,
+      "w": 52,
+      "h": 52,
+      "iw": 998,
+      "ih": 626
+     },
+     {
+      "img": "img/expedicion/p9.png",
+      "x": 678,
+      "y": 455,
+      "w": 52,
+      "h": 52,
+      "iw": 998,
+      "ih": 626
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P10",
+    "nombre": "Justicia y virtud 1",
+    "detalle": "Vence a un jefe de 3 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 612,
+      "y": 632,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     },
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 671,
+      "y": 632,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P10",
+    "nombre": "Justicia y virtud 2",
+    "detalle": "Vence a un jefe de 5 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 612,
+      "y": 296,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     },
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 671,
+      "y": 296,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P10",
+    "nombre": "Justicia y virtud 3",
+    "detalle": "Vence a un jefe de 10 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 612,
+      "y": 834,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     },
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 671,
+      "y": 834,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P10",
+    "nombre": "Liberación de demonios de P10 1",
+    "detalle": "Vence al Demonio conquistador de montañas",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 612,
+      "y": 699,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     },
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 671,
+      "y": 699,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P10",
+    "nombre": "Liberación de demonios de P10 2",
+    "detalle": "Vence a la Sierpe espeluznante solitaria",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 612,
+      "y": 766,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     },
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 671,
+      "y": 766,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada P10",
+    "nombre": "Liberación de demonios de P10 3",
+    "detalle": "Vence a la Garra malvada lumínica",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 612,
+      "y": 901,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     },
+     {
+      "img": "img/expedicion/p10.webp",
+      "x": 671,
+      "y": 901,
+      "w": 52,
+      "h": 52,
+      "iw": 971,
+      "ih": 1008
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P11",
+    "nombre": "Caballero de la justicia 1",
+    "detalle": "Vence a un jefe de 3 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 624,
+      "y": 657,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     },
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 684,
+      "y": 657,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P11",
+    "nombre": "Caballero de la justicia 2",
+    "detalle": "Vence a un jefe de 5 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 624,
+      "y": 724,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     },
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 684,
+      "y": 724,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P11",
+    "nombre": "Caballero de la justicia 3",
+    "detalle": "Vence a un jefe de 10 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 624,
+      "y": 186,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     },
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 684,
+      "y": 186,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P11",
+    "nombre": "Misterio inesperado 1",
+    "detalle": "Vence a un jefe de 10 jugadores",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 624,
+      "y": 254,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     },
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 684,
+      "y": 254,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P11",
+    "nombre": "Misterio inesperado 2",
+    "detalle": "Vence al jefe oculto",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 624,
+      "y": 321,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     },
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 684,
+      "y": 321,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P11",
+    "nombre": "A donde apunta la cuchilla 1",
+    "detalle": "Vence a los demonios del Altar del Oficial derecho",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 624,
+      "y": 388,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     },
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 684,
+      "y": 388,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P11",
+    "nombre": "A donde apunta la cuchilla 2",
+    "detalle": "Vence a los demonios del Altar del Oficial izquierdo",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 624,
+      "y": 456,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     },
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 684,
+      "y": 456,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P11",
+    "nombre": "A donde apunta la cuchilla 3",
+    "detalle": "Vence a los demonios del Altar del Auspicio sombrío",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 624,
+      "y": 523,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     },
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 684,
+      "y": 523,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P11",
+    "nombre": "Exterminador de duendes",
+    "detalle": "Vence a los duendes",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 624,
+      "y": 590,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     },
+     {
+      "img": "img/expedicion/p11.webp",
+      "x": 684,
+      "y": 590,
+      "w": 52,
+      "h": 52,
+      "iw": 987,
+      "ih": 939
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P12",
+    "nombre": "Misión P12 A",
+    "detalle": "El juego no muestra el nombre · objetivo (1)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 608,
+      "y": 172,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     },
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 668,
+      "y": 172,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P12",
+    "nombre": "Misión P12 B",
+    "detalle": "El juego no muestra el nombre · objetivo (20)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 608,
+      "y": 239,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     },
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 668,
+      "y": 239,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P12",
+    "nombre": "Misión mensual P12",
+    "detalle": "El juego no muestra el nombre · se desbloquea con otra misión",
+    "frecuencia": "mensual",
+    "iconos": [
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 608,
+      "y": 306,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     },
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 668,
+      "y": 306,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P12",
+    "nombre": "Misión P12 C",
+    "detalle": "El juego no muestra el nombre",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 608,
+      "y": 374,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     },
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 668,
+      "y": 374,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P12",
+    "nombre": "Misión P12 D",
+    "detalle": "El juego no muestra el nombre",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 608,
+      "y": 441,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     },
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 668,
+      "y": 441,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     }
+    ]
+   },
+   {
+    "zona": "Cima inexplorada fisurada P12",
+    "nombre": "Misión P12 E",
+    "detalle": "El juego no muestra el nombre",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 608,
+      "y": 508,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     },
+     {
+      "img": "img/expedicion/p12.png",
+      "x": 668,
+      "y": 508,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 771
+     }
+    ]
+   },
+   {
+    "zona": "Templo del toro demoníaco P3 [Mundo 1]",
+    "nombre": "Gobernador absoluto del Templo del toro demoníaco [Mundo 1]",
+    "detalle": "Vence al Espectro toro del vacío",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w1.png",
+      "x": 604,
+      "y": 87,
+      "w": 52,
+      "h": 52,
+      "iw": 931,
+      "ih": 798
+     },
+     {
+      "img": "img/expedicion/l3w1.png",
+      "x": 664,
+      "y": 87,
+      "w": 52,
+      "h": 52,
+      "iw": 931,
+      "ih": 798
+     }
+    ]
+   },
+   {
+    "zona": "Templo del toro demoníaco P3 [Mundo 1]",
+    "nombre": "Expedición del Templo del toro demoníaco P3 [Mundo 1]",
+    "detalle": "Vence a todos los monstruos (180)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w1.png",
+      "x": 604,
+      "y": 154,
+      "w": 52,
+      "h": 52,
+      "iw": 931,
+      "ih": 798
+     },
+     {
+      "img": "img/expedicion/l3w1.png",
+      "x": 664,
+      "y": 154,
+      "w": 52,
+      "h": 52,
+      "iw": 931,
+      "ih": 798
+     }
+    ]
+   },
+   {
+    "zona": "Mina abandonada P3 [Mundo 8]",
+    "nombre": "Expedición de la Mina abandonada P3 [Mundo 8]",
+    "detalle": "Vence a todos los monstruos (180)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w8.png",
+      "x": 608,
+      "y": 85,
+      "w": 52,
+      "h": 52,
+      "iw": 937,
+      "ih": 889
+     },
+     {
+      "img": "img/expedicion/l3w8.png",
+      "x": 668,
+      "y": 85,
+      "w": 52,
+      "h": 52,
+      "iw": 937,
+      "ih": 889
+     }
+    ]
+   },
+   {
+    "zona": "Mina abandonada P3 [Mundo 8]",
+    "nombre": "Gobernador absoluto de la Mina abandonada [Mundo 8]",
+    "detalle": "Vence al Sacro demonio de hielo",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w8.png",
+      "x": 608,
+      "y": 152,
+      "w": 52,
+      "h": 52,
+      "iw": 937,
+      "ih": 889
+     },
+     {
+      "img": "img/expedicion/l3w8.png",
+      "x": 668,
+      "y": 152,
+      "w": 52,
+      "h": 52,
+      "iw": 937,
+      "ih": 889
+     }
+    ]
+   },
+   {
+    "zona": "Garganta de Luna sangrienta P3 [Mundo 7]",
+    "nombre": "Conquista la Garganta de Luna sangrienta P3 [Mundo 7]",
+    "detalle": "Vence a todos los monstruos (180)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w7.png",
+      "x": 623,
+      "y": 72,
+      "w": 52,
+      "h": 52,
+      "iw": 952,
+      "ih": 821
+     },
+     {
+      "img": "img/expedicion/l3w7.png",
+      "x": 683,
+      "y": 72,
+      "w": 52,
+      "h": 52,
+      "iw": 952,
+      "ih": 821
+     }
+    ]
+   },
+   {
+    "zona": "Garganta de Luna sangrienta P3 [Mundo 7]",
+    "nombre": "Aparece General deidad [Mundo 7]",
+    "detalle": "Vence al Dragón espíritu de fuerza demoníaca",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w7.png",
+      "x": 623,
+      "y": 139,
+      "w": 52,
+      "h": 52,
+      "iw": 952,
+      "ih": 821
+     },
+     {
+      "img": "img/expedicion/l3w7.png",
+      "x": 683,
+      "y": 139,
+      "w": 52,
+      "h": 52,
+      "iw": 952,
+      "ih": 821
+     }
+    ]
+   },
+   {
+    "zona": "Refugio de espadas P2 [Mundo 4]",
+    "nombre": "Conquista el Refugio de espadas P2 [Mundo 4]",
+    "detalle": "Vence a todos los monstruos (180)",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w4.png",
+      "x": 621,
+      "y": 78,
+      "w": 52,
+      "h": 52,
+      "iw": 951,
+      "ih": 908
+     },
+     {
+      "img": "img/expedicion/l3w4.png",
+      "x": 681,
+      "y": 78,
+      "w": 52,
+      "h": 52,
+      "iw": 951,
+      "ih": 908
+     }
+    ]
+   },
+   {
+    "zona": "Refugio de espadas P2 [Mundo 4]",
+    "nombre": "Aparece General deidad [Mundo 4]",
+    "detalle": "Vence a Kabatar",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w4.png",
+      "x": 621,
+      "y": 145,
+      "w": 52,
+      "h": 52,
+      "iw": 951,
+      "ih": 908
+     },
+     {
+      "img": "img/expedicion/l3w4.png",
+      "x": 681,
+      "y": 145,
+      "w": 52,
+      "h": 52,
+      "iw": 951,
+      "ih": 908
+     }
+    ]
+   },
+   {
+    "zona": "Cima del camino divino [Mundo 2]",
+    "nombre": "Aparece el General deidad [Mundo 2]",
+    "detalle": "Vence al Cte. fantasma espectral",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w2.png",
+      "x": 620,
+      "y": 86,
+      "w": 52,
+      "h": 52,
+      "iw": 947,
+      "ih": 660
+     },
+     {
+      "img": "img/expedicion/l3w2.png",
+      "x": 680,
+      "y": 86,
+      "w": 52,
+      "h": 52,
+      "iw": 947,
+      "ih": 660
+     }
+    ]
+   },
+   {
+    "zona": "Cima del camino divino [Mundo 2]",
+    "nombre": "Conquista la Cima del camino divino [Mundo 2]",
+    "detalle": "Vence a todos los monstruos",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w2.png",
+      "x": 620,
+      "y": 153,
+      "w": 52,
+      "h": 52,
+      "iw": 947,
+      "ih": 660
+     },
+     {
+      "img": "img/expedicion/l3w2.png",
+      "x": 680,
+      "y": 153,
+      "w": 52,
+      "h": 52,
+      "iw": 947,
+      "ih": 660
+     }
+    ]
+   },
+   {
+    "zona": "Templo de ilusión [Mundo 5]",
+    "nombre": "Aparece el General deidad [Mundo 5]",
+    "detalle": "Vence al Fantasma celestial de gran fuerza",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w5.png",
+      "x": 623,
+      "y": 76,
+      "w": 52,
+      "h": 52,
+      "iw": 949,
+      "ih": 694
+     },
+     {
+      "img": "img/expedicion/l3w5.png",
+      "x": 683,
+      "y": 76,
+      "w": 52,
+      "h": 52,
+      "iw": 949,
+      "ih": 694
+     }
+    ]
+   },
+   {
+    "zona": "Templo de ilusión [Mundo 5]",
+    "nombre": "Conquista el Templo de ilusión [Mundo 5]",
+    "detalle": "Vence a todos los monstruos",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w5.png",
+      "x": 623,
+      "y": 143,
+      "w": 52,
+      "h": 52,
+      "iw": 949,
+      "ih": 694
+     },
+     {
+      "img": "img/expedicion/l3w5.png",
+      "x": 683,
+      "y": 143,
+      "w": 52,
+      "h": 52,
+      "iw": 949,
+      "ih": 694
+     }
+    ]
+   },
+   {
+    "zona": "Tumba rupestre [Mundo 3]",
+    "nombre": "Aparece el General deidad [Mundo 3]",
+    "detalle": "Vence al Dragón demoníaco cuernonegro",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w3.png",
+      "x": 617,
+      "y": 59,
+      "w": 52,
+      "h": 52,
+      "iw": 949,
+      "ih": 671
+     },
+     {
+      "img": "img/expedicion/l3w3.png",
+      "x": 677,
+      "y": 59,
+      "w": 52,
+      "h": 52,
+      "iw": 949,
+      "ih": 671
+     }
+    ]
+   },
+   {
+    "zona": "Tumba rupestre [Mundo 3]",
+    "nombre": "Conquista la Tumba rupestre [Mundo 3]",
+    "detalle": "Vence a todos los monstruos",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w3.png",
+      "x": 617,
+      "y": 126,
+      "w": 52,
+      "h": 52,
+      "iw": 949,
+      "ih": 671
+     },
+     {
+      "img": "img/expedicion/l3w3.png",
+      "x": 677,
+      "y": 126,
+      "w": 52,
+      "h": 52,
+      "iw": 949,
+      "ih": 671
+     }
+    ]
+   },
+   {
+    "zona": "Laberinto de Bicheon [Mundo 6]",
+    "nombre": "Aparece el General deidad [Mundo 6]",
+    "detalle": "Vence al Demofantasma de Bicheon",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w6.png",
+      "x": 620,
+      "y": 37,
+      "w": 52,
+      "h": 52,
+      "iw": 958,
+      "ih": 688
+     },
+     {
+      "img": "img/expedicion/l3w6.png",
+      "x": 680,
+      "y": 37,
+      "w": 52,
+      "h": 52,
+      "iw": 958,
+      "ih": 688
+     }
+    ]
+   },
+   {
+    "zona": "Laberinto de Bicheon [Mundo 6]",
+    "nombre": "Conquista el Laberinto de Bicheon [Mundo 6]",
+    "detalle": "Vence a todos los monstruos",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l3w6.png",
+      "x": 620,
+      "y": 104,
+      "w": 52,
+      "h": 52,
+      "iw": 958,
+      "ih": 688
+     },
+     {
+      "img": "img/expedicion/l3w6.png",
+      "x": 680,
+      "y": 104,
+      "w": 52,
+      "h": 52,
+      "iw": 958,
+      "ih": 688
+     }
+    ]
+   },
+   {
+    "zona": "Isla de fuego ardiente [Plano 1 del mundo 1]",
+    "nombre": "Conquista la Isla de fuego ardiente [Plano 1 del mundo 1]",
+    "detalle": "Vence a todos los monstruos",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l1w1.png",
+      "x": 613,
+      "y": 51,
+      "w": 52,
+      "h": 52,
+      "iw": 942,
+      "ih": 759
+     },
+     {
+      "img": "img/expedicion/l1w1.png",
+      "x": 673,
+      "y": 51,
+      "w": 52,
+      "h": 52,
+      "iw": 942,
+      "ih": 759
+     }
+    ]
+   },
+   {
+    "zona": "Isla de fuego ardiente [Plano 1 del mundo 1]",
+    "nombre": "Aparece el General deidad [Plano 1 del mundo 1]",
+    "detalle": "Vence al Monje budista de ánima",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l1w1.png",
+      "x": 613,
+      "y": 118,
+      "w": 52,
+      "h": 52,
+      "iw": 942,
+      "ih": 759
+     },
+     {
+      "img": "img/expedicion/l1w1.png",
+      "x": 673,
+      "y": 118,
+      "w": 52,
+      "h": 52,
+      "iw": 942,
+      "ih": 759
+     }
+    ]
+   },
+   {
+    "zona": "Palacio del nonadragón [Plano 1 del mundo 2]",
+    "nombre": "Despeja el Palacio del nonadragón [Plano 1 del mundo 2]",
+    "detalle": "Vence a todos los monstruos",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l1w2.png",
+      "x": 617,
+      "y": 59,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 821
+     },
+     {
+      "img": "img/expedicion/l1w2.png",
+      "x": 677,
+      "y": 59,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 821
+     }
+    ]
+   },
+   {
+    "zona": "Palacio del nonadragón [Plano 1 del mundo 2]",
+    "nombre": "Aparece el General deidad [Plano 1 del mundo 2]",
+    "detalle": "Vence a Maeng Cheongang",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l1w2.png",
+      "x": 617,
+      "y": 126,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 821
+     },
+     {
+      "img": "img/expedicion/l1w2.png",
+      "x": 677,
+      "y": 126,
+      "w": 52,
+      "h": 52,
+      "iw": 941,
+      "ih": 821
+     }
+    ]
+   },
+   {
+    "zona": "Fondo de las hidras [Plano 1 del mundo 3]",
+    "nombre": "Conquista del Fondo de las hidras [Plano 1 del mundo 3]",
+    "detalle": "Vence a todos los monstruos",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l1w3.png",
+      "x": 616,
+      "y": 80,
+      "w": 52,
+      "h": 52,
+      "iw": 948,
+      "ih": 876
+     },
+     {
+      "img": "img/expedicion/l1w3.png",
+      "x": 676,
+      "y": 80,
+      "w": 52,
+      "h": 52,
+      "iw": 948,
+      "ih": 876
+     }
+    ]
+   },
+   {
+    "zona": "Fondo de las hidras [Plano 1 del mundo 3]",
+    "nombre": "Aparición del General deidad [Plano 1 del mundo 3]",
+    "detalle": "Vence al Señor de Sangre de los Diez Mil Ojos",
+    "frecuencia": "semanal",
+    "iconos": [
+     {
+      "img": "img/expedicion/l1w3.png",
+      "x": 616,
+      "y": 147,
+      "w": 52,
+      "h": 52,
+      "iw": 948,
+      "ih": 876
+     },
+     {
+      "img": "img/expedicion/l1w3.png",
+      "x": 676,
+      "y": 147,
+      "w": 52,
+      "h": 52,
+      "iw": 948,
+      "ih": 876
+     }
+    ]
+   }
+  ]
+ },
+ "valles": []
+}

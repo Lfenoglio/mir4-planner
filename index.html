@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Planner de misiones · MIR4</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">M4</div>
+        <div>
+          <div class="brand-name">MIR4 PLANNER</div>
+          <div class="brand-sub">Misiones y resets</div>
+        </div>
+      </div>
+      <nav class="nav" id="nav">
+        <div class="nav-group">Planner de misiones</div>
+        <div class="subnav" id="sub-planner"></div>
+      </nav>
+      <div class="sync" id="sync"></div>
+    </aside>
+
+    <div class="main">
+      <header class="topbar">
+        <h1 id="title">Planner de misiones</h1>
+        <span class="server-clock" id="server-clock"></span>
+      </header>
+      <main class="content" id="view"><p class="empty">Cargando misiones…</p></main>
+    </div>
+  </div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
